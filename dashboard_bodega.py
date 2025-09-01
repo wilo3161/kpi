@@ -113,7 +113,7 @@ st.markdown("""
     .comment-container {
         margin-top: 15px;
         padding: 15px;
-        background-color: #f8f9fa;
+        background-color: white;
         border-radius: 5px;
         border-left: 3px solid #3498db;
     }
